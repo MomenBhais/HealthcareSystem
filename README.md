@@ -119,13 +119,13 @@ yaml
    cd HealthcareSystem
 Install dependencies:
 
-bash
+
 نسخ
 تحرير
 pip install -r requirements.txt
 Run the database scripts as needed:
 
-bash
+
 نسخ
 تحرير
 python MongoDB/mongodb_patient.py
