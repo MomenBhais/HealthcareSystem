@@ -32,7 +32,7 @@ This system simulates a smart healthcare environment where:
 | Neo4j         | Graph relationships between doctors/patients |
 
 ---
-
+ ```bash
 ## 📁 Project Structure
 
 HealthcareSystem/
@@ -54,10 +54,8 @@ HealthcareSystem/
 ├── requirements.txt # Python dependencies
 └── .gitignore # Git ignore rules
 
-yaml
-نسخ
-تحرير
 
+ ```
 ---
 
 ## ⚙️ Features Implemented
