@@ -55,7 +55,8 @@ HealthcareSystem/
 └── .gitignore # Git ignore rules
 
 yaml
-
+نسخ
+تحرير
 
 ---
 
@@ -155,14 +156,14 @@ Add authentication and role-based access.
 
 Dockerize the entire system for easier deployment.
 
-
-
 📎 Submission
 ✅ All source code and configuration files are available in this repository.
-Link to GitHub repo: https://github.com:MomenBhais/HealthcareSystem.git
+Link to GitHub repo: https://github.com/yourusername/HealthcareSystem
 
 🧑‍💻 Team
 Momen Bheis – Machine Learning Student, Palestine Polytechnic University
+
+
 
 📬 Contact
 For inquiries or demo access:
