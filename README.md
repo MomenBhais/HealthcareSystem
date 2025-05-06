@@ -35,7 +35,6 @@ This system simulates a smart healthcare environment where:
 
 ## 📁 Project Structure
 
-
 HealthcareSystem/
 │
 ├── MongoDB/
@@ -56,8 +55,7 @@ HealthcareSystem/
 └── .gitignore # Git ignore rules
 
 yaml
-نسخ
-تحرير
+
 
 ---
 
@@ -121,10 +119,8 @@ yaml
 Install dependencies:
 
 
-
 pip install -r requirements.txt
 Run the database scripts as needed:
-
 
 
 python MongoDB/mongodb_patient.py
@@ -158,6 +154,8 @@ Add Cassandra for scalable analytics.
 Add authentication and role-based access.
 
 Dockerize the entire system for easier deployment.
+
+
 
 📎 Submission
 ✅ All source code and configuration files are available in this repository.
