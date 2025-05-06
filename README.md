@@ -54,9 +54,6 @@ HealthcareSystem/
 ├── requirements.txt # Python dependencies
 └── .gitignore # Git ignore rules
 
-yaml
-نسخ
-تحرير
 
 ---
 
