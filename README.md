@@ -120,14 +120,12 @@ yaml
 Install dependencies:
 
 
-نسخ
-تحرير
+
 pip install -r requirements.txt
 Run the database scripts as needed:
 
 
-نسخ
-تحرير
+
 python MongoDB/mongodb_patient.py
 python InfluxDB/influxdb_measurements.py
 python Neo4j/neo4j_graph.py
