@@ -35,6 +35,7 @@ This system simulates a smart healthcare environment where:
 
 ## 📁 Project Structure
 
+
 HealthcareSystem/
 │
 ├── MongoDB/
@@ -54,6 +55,9 @@ HealthcareSystem/
 ├── requirements.txt # Python dependencies
 └── .gitignore # Git ignore rules
 
+yaml
+نسخ
+تحرير
 
 ---
 
