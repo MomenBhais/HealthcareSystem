@@ -160,19 +160,20 @@ Link to GitHub repo: https://github.com/yourusername/HealthcareSystem
 
 🧑‍💻 Team
 Momen Bheis – Machine Learning Student, Palestine Polytechnic University
-
+ ```bash
+---
 ##References:
 
-##InfluxData Official Docs – https://docs.influxdata.com/influxdb
+InfluxData Official Docs – https://docs.influxdata.com/influxdb
 
-##TimescaleDB Docs – https://docs.timescale.com
+TimescaleDB Docs – https://docs.timescale.com
 
-##Time-Series Databases Explained – https://www.influxdata.com/time-series-database
+Time-Series Databases Explained – https://www.influxdata.com/time-series-database
 
-##Uber Engineering Blog – https://eng.uber.com
+Uber Engineering Blog – https://eng.uber.com
 
-##NASA Case Studies – https://www.nasa.gov
-
+NASA Case Studies – https://www.nasa.gov
+---
 
 
 📬 Contact
