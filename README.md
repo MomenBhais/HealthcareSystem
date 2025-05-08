@@ -160,9 +160,9 @@ Link to GitHub repo: https://github.com/yourusername/HealthcareSystem
 
 🧑‍💻 Team
 Momen Bheis – Machine Learning Student, Palestine Polytechnic University
- ```bash
----
-##References:
+
+ 
+References:
 
 InfluxData Official Docs – https://docs.influxdata.com/influxdb
 
@@ -173,7 +173,7 @@ Time-Series Databases Explained – https://www.influxdata.com/time-series-datab
 Uber Engineering Blog – https://eng.uber.com
 
 NASA Case Studies – https://www.nasa.gov
----
+ 
 
 
 📬 Contact
